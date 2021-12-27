@@ -6,6 +6,8 @@
  * Phone +375 29 75-24-575
  * E-mail m.d-ch@yandex.ru
  * GitHub [akana1](https://github.com/akana1)
+
+
 ********
 
 
@@ -13,6 +15,8 @@
 
 
  I'm first-year student of GRSU. The reason i started rs school is to get better in what i like(front-end development). Even thought i do not have a lot of knowledge about it i still want to became a good web developer and study on this course.
+
+
 *********
 
 
@@ -24,6 +28,8 @@
  * HTML&CSS
  * A little bit of JS
  * Git
+
+
 *********
 
 
@@ -35,12 +41,16 @@
   return a * b
  }
  ```
+
+
 *********
 
 
 **Education**
  * Yanka Kupala State University of Grodno(applied maths)
  * Self-education
+
+
 *********
 
 
