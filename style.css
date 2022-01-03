@@ -56,7 +56,7 @@ body {
   font-size: 30px;
   font-weight: 700;
   color: rgb(26, 24, 23);
-  text-shadow: 2px 2px 5px rgb(114, 211, 250);
+  text-shadow: 2px 2px 5px rgb(255, 0, 0);
 }
 
 .subtitle {
@@ -66,7 +66,7 @@ body {
 }
 
 .header {
-  background-color: rgb(126, 126, 228);
+  background-color: rgb(255, 0, 0);
 }
 
 .header__list {
@@ -99,7 +99,7 @@ body {
 
 .contacts {
   margin-left: 15px;
-  background-color: rgb(250, 0, 0);
+  background-color: rgb(255, 73, 73);
 }
 
 .contacts__photo-pic {
@@ -123,7 +123,7 @@ body {
 
 .contacts__item a {
   display: block;
-  color: rgb(255, 0, 0);
+  color: black;
   transition: 0.2s;
 }
 
@@ -149,7 +149,7 @@ body {
 }
 
 .footer {
-  background-color: rgb(126, 126, 228);
+  background-color: rgb(255, 0, 0);
 }
 
 .footer__item {
