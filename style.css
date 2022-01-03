@@ -88,7 +88,7 @@ body {
 }
 
 .header__link:hover {
-  color: rgb(191, 189, 197);
+  color: rgb(255, 0, 0);
 }
 
 .main {
@@ -99,7 +99,7 @@ body {
 
 .contacts {
   margin-left: 15px;
-  background-color: rgb(170, 214, 231);
+  background-color: rgb(250, 0, 0);
 }
 
 .contacts__photo-pic {
@@ -123,7 +123,7 @@ body {
 
 .contacts__item a {
   display: block;
-  color: black;
+  color: rgb(255, 0, 0);
   transition: 0.2s;
 }
 
@@ -138,15 +138,6 @@ body {
 .info__skills-list {
   margin-left: 20px;
   list-style: square;
-}
-
-.info__projects-link {
-  color: black;
-  transition: 0.2s;
-}
-
-.info__projects-link:hover {
-  color: rgb(112, 106, 131);
 }
 
 .info__education-item:first-child {
